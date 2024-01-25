@@ -1,3 +1,6 @@
+const main = () => {
+
+return(
 <!DOCTYPE html>
 <html lang="de">
   <head>
@@ -8,4 +11,7 @@
   <body>
     <h1>About to forward...</h1>
   </body>
-</html>
+</html>)
+}
+
+main();
